@@ -1,0 +1,6 @@
+state
+__pycache__/
+.pytest_cache/
+*.pyc
+docs/local-delegation-20260917/
+docs/token-savings-20260917/
